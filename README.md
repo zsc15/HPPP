@@ -1,5 +1,5 @@
 # HPPP
-Usage in most codes.
+Usage in most codes. We use mixed codes with Python and MATLAB in some `xxxx.ipynb`. Please install MATLAB on the Ubuntu system.
 ## Acknowledgments
 This repo contains parts of code taken from: https://github.com/google/RED and https://github.com/samuro95/Prox-PnP/
 ## Citation
